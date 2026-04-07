@@ -1,5 +1,6 @@
-Notification App
+# Notification Hub
 
-Monorepo (React + Next + Mongo + Redis)
-
-
+* Registrate client
+* Real-time communicate
+* List registrate clients
+* Send messages between clients
