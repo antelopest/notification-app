@@ -1,4 +1,19 @@
+# IDE
 .idea
 .vscode
 
+# OS
+.DS_Store
+Thumbs.db
 
+# LOGS
+logs
+*.logs
+pnpm-debug.log*
+
+# ENV
+.env
+.env.*
+
+# NM
+node_modules
